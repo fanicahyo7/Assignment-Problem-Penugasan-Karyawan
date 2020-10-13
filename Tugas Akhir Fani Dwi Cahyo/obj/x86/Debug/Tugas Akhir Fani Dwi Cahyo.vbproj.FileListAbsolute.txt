@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\bin\Debug\Tugas Akhir Fani Dwi Cahyo.exe
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\bin\Debug\Tugas Akhir Fani Dwi Cahyo.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\bin\Debug\Tugas Akhir Fani Dwi Cahyo.xml
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas Akhir Fani Dwi Cahyo.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas Akhir Fani Dwi Cahyo.exe
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas Akhir Fani Dwi Cahyo.xml
+c:\users\user\documents\visual studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas Akhir Fani Dwi Cahyo.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.FormKaryawan.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.FormUtama.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.FormTugas.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.FormPenugasanKaryawan.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.FormGantiPassword.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.FormLogin.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\bin\Debug\Tugas Akhir Fani Dwi Cahyo.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas Akhir Fani Dwi Cahyo.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.laporankaryawan.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.laporantugaskaryawan.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tugas Akhir Fani Dwi Cahyo\Tugas Akhir Fani Dwi Cahyo\obj\x86\Debug\Tugas_Akhir_Fani_Dwi_Cahyo.laporanbagitugas.resources
